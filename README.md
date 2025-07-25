@@ -1,4 +1,4 @@
-# 🔊 Voice4Welfare – Hackathon MVP Submission
+# Voice4Welfare – Hackathon MVP Submission
 
 **Colab Notebook:** [View in Colab](https://colab.research.google.com/drive/1n4T4s7HiUmdA8D-FlWOBe0_fmt-9itIf?usp=sharing )  
 **Team Name:** Infinityloopers  
@@ -90,8 +90,8 @@ Millions of underprivileged or non-literate citizens struggle to access welfare 
 ## 📬 Contact
 
 For any questions, please reach out to:  
-📧 your-email@example.com  
-📞 +91-XXXXXXXXXX
+📧 harshiukp@gmail.com 
+📞 +91-9902655840
 
 ---
 
